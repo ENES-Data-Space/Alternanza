@@ -17,7 +17,7 @@ Il servizio EGI Check-in fornisce un modo semplice, veloce e sicuro per accedere
 
 Dopo che il tuo account è stato registrato, clicca [qui](https://aai.egi.eu/registry/co_petitions/start/coef:231) per iscriversi all'Organizzazione virtuale ENES.
 
-Il bottone "INIZIA" ti reindirizzerà a un modulo di compilazione. Inserisci la tua motivazione (es. "Partecipazione all'alternanza scuola-lavoro") e accetta la Politica di Utilizzo prima di inviare la richiesta.
+Il pulsante "BEGIN" ti reindirizzerà a un modulo di compilazione. Inserisci la tua motivazione (es. "Partecipazione all'alternanza scuola-lavoro") e accetta la Politica di Utilizzo prima di inviare la richiesta.
 
 Appena possibile, verrà inviata una notifica via email una volta approvata la richiesta.
 
