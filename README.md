@@ -27,6 +27,6 @@ Appena possibile, verrà inviata una notifica via email una volta approvata la r
 
 https://enesdataspace.vm.fedcloud.eu/jupyter/hub
 
-Seleziona l'opzione **MAGICA SUMMER SCHOOL** server.
+Seleziona l'opzione **CMCC WORK-SCHOOL TRAINING** server.
 
 <p align="center"> <img src="https://github.com/ENES-Data-Space/Alternanza/blob/main/images/Step3.png" width="600" /> </p>
